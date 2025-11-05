@@ -1,15 +1,16 @@
-<div align="center" markdown="1" dir="rtl">
-[**فارسی**](README_fa.md) | [**English**](README.md)
----
-# 🎾 تحلیل داده مسابقات تنیس (۶۰ روز)
-
-![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
-![License](https://img.shields.io/badge/License-MIT-green)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-![Made with Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?logo=jupyter)
-
----
+<div align="center" markdown="1" dir="ltr">
+  [**فارسی**](README_fa.md) | [**English**](README.md)
 </div>
+---
+# **🎾 **تحلیل داده مسابقات تنیس (۶۰ روز)
+<div align="center" markdown="1" dir="ltr">
+  ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
+  ![License](https://img.shields.io/badge/License-MIT-green)
+  ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+  ![Made with Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?logo=jupyter)
+</div>
+---
+
 ## 🏆 خلاصه پروژه
 این پروژه یک **تحلیل جامع از ۶۰ روز مسابقات تنیس** است که از وب‌سایت SofaScore.com اسکرپ شده‌اند.  
 داده‌های خام برای هر روز در چند فایل پارکت جداگانه و نامنظم قرار داشتند و هدف پروژه پاک‌سازی، یکپارچه‌سازی و استخراج بینش‌های آماری از این داده‌های پراکنده بوده است.
