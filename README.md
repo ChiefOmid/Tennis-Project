@@ -67,5 +67,5 @@ venv\Scripts\activate         # Windows
 pip install -r requirements.txt
 ---------------------------------------
 4.Run Jupyter Notebook
-jupyter notebook notebooks/tennis_analysis.ipynb
+jupyter notebook notebooks/tennis-project.ipynb
 
