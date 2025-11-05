@@ -1,9 +1,9 @@
-<div align="center" markdown="1" dir="ltr">
+<div align="center">
   [**فارسی**](README_fa.md) | [**English**](README.md)
 </div>
 ---
 # **🎾 **تحلیل داده مسابقات تنیس (۶۰ روز)
-<div align="center" markdown="1" dir="ltr">
+<div align="center">
   ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
   ![License](https://img.shields.io/badge/License-MIT-green)
   ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
