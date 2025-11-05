@@ -1,14 +1,12 @@
-<div align="center">
-  [**فارسی**](README_fa.md) | [**English**](README.md)
-</div>
+[**فارسی**](README_fa.md) | [**English**](README.md)
 ---
-# **🎾 **تحلیل داده مسابقات تنیس (۶۰ روز)
-<div align="center">
-  ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
-  ![License](https://img.shields.io/badge/License-MIT-green)
-  ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-  ![Made with Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?logo=jupyter)
-</div>
+# **🎾 تحلیل داده مسابقات تنیس (۶۰ روز)**
+---
+![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Made with Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?logo=jupyter)
+
 ---
 
 ## 🏆 خلاصه پروژه
