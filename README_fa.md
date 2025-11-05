@@ -1,4 +1,4 @@
-[https://github.com/ChiefOmid/Tennis-Project/blob/main/README.md | English] | [https://github.com/ChiefOmid/Tennis-Project/blob/main/README_FA.md | فارسی]
+[**فارسی**](README_fa.md) | [**English**](README.md)
 ---
 # 🎾 تحلیل داده مسابقات تنیس (۶۰ روز)
 
