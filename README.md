@@ -1,6 +1,6 @@
-[**فارسی**](README_fa.md) | [**English**](README.md)
+[**English**](README.md) | [**فارسی**](README_fa.md)
 ---
-# 🎾 Tennis Match Data Analysis (60 Days)
+# **🎾Tennis Match Data Analysis (60 Days)**
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
 ![License](https://img.shields.io/badge/License-MIT-green)
